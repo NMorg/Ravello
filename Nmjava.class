@@ -4,5 +4,6 @@ public class Nmjava
   {
   System.out.println("Hello World");
   System.out.println("I am a Robot");
+  System.out.println("I am a Hero");
   }
 }
